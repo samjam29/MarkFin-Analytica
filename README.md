@@ -2,8 +2,22 @@
 # MarkFin-Analytica: Marketing and Financial Analysis Project
 Welcome to MarkFin-Analytica, a project showcasing advanced SQL skills for marketing and financial analysis. This project focuses on leveraging SQL queries, stored procedures, and functions to derive valuable insights from a comprehensive database related to marketing and financial data.
 
-# Project Overview
-MarkFin-Analytica is aimed at providing in-depth analysis and insights into marketing and financial data through SQL queries. It covers various aspects such as top customers, products, markets, pre-invoice discounts, gross sales reports, and more.
+# project overview
+MarkFin-Analytica serves as a beacon of innovation, showcasing the seamless integration of SQL queries, stored procedures, and functions to unearth actionable insights from a rich repository of marketing and financial data. With a keen focus on precision and depth, this project delves into key facets such as top customers, products, markets, pre-invoice discounts, and gross sales reports.
+MarkFin-Analytica showcases a diverse array of advanced SQL techniques, including but not limited to:
+Data type manipulation
+Normalization
+Operators usage
+Case statements
+Joins
+Advanced SQL clauses
+Order of execution
+Common Table Expressions (CTEs)
+Views
+Stored procedures
+Custom SQL functions
+Harnessing these skills, MarkFin-Analytica delivers actionable insights for strategic decision-making, making it an invaluable asset for business leaders and department heads.
+   The target audience for MarkFin-Analytica transcends conventional boundaries, encompassing visionary business leaders and astute department heads across diverse industries. These individuals, armed with a thirst for actionable insights, seek to navigate the complexities of modern business landscapes with finesse and acumen.
 
 # Marketing Analysis
 Top Customers, Products, Markets
